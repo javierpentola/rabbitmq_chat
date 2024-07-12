@@ -102,5 +102,3 @@ To set up and use the project after downloading the code, follow these steps:
    - Open the Ngrok URL in multiple browser tabs or devices.
    - Type a message in the input field and click "SEND".
    - The message should appear in real-time across all connected clients.
-
-By following these steps, you can set up and run the Real-Time Chat Application on your local machine and test it from multiple devices using Ngrok. The application ensures reliable message delivery using RabbitMQ and updates the chat interface in real-time with Socket.io.
