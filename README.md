@@ -1,4 +1,4 @@
-### Project Documentation: Real-Time Chat Application with RabbitMQ
+### Simple real-Time Chat Application with RabbitMQ
 
 ---
 
